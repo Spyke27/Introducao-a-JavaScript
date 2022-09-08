@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.botao {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 25px;
+    height: 60px;
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+.botao:hover {
+    box-shadow: rgb(37, 37, 37) 5px 3px 3px;
+    font-size: 26px;
+    color: rgb(0, 0, 0);
+    color: #fff;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+#escolha{
+    font-size: 30px;
+}
+legend{
+    margin-bottom: 10PX;
+}
